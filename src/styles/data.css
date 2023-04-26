@@ -1,0 +1,56 @@
+.full_container {
+  width: 100%;
+  display: grid;
+  place-items: center;
+  margin-bottom: 20px;
+}
+
+.card_location {
+  width: 50%;
+  min-width: 350px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 500px;
+  border-radius: 10px;
+  padding: 30px;
+  display: grid;
+  place-items: center;
+}
+
+.title_location {
+  text-align: center;
+  color: #2c2c34;
+  font-size: 35px;
+  font-weight: 400;
+}
+
+.temperature {
+  width: 100%;
+  text-align: end;
+  font-size: 50px;
+  color: #2c2c34;
+}
+
+.location_information {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.information {
+  font-size: 20px;
+  font-weight: 800;
+  text-align: center;
+  color: #b18fcf;
+}
+
+.button_other{
+  cursor: pointer;
+  border-radius: 4px;
+  padding: 10px;
+  border: none;
+  background-color: #2c2c34;
+  color: #b18fcf;
+}

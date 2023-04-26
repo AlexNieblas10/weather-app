@@ -1,0 +1,17 @@
+.mainContainer {
+  display: grid;
+  place-items: center;
+}
+
+.title{
+  text-align: center;
+}
+
+.linkPage{
+  margin: 20px 0;
+}
+
+.messageError{
+  text-align: center;
+  width: 50%;
+}

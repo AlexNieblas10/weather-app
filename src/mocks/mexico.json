@@ -1,0 +1,33 @@
+{
+  "data": {
+    "time": "2023-04-18T23:55:00Z",
+    "values": {
+      "cloudBase": null,
+      "cloudCeiling": null,
+      "cloudCover": 2,
+      "dewPoint": -10.31,
+      "freezingRainIntensity": 0,
+      "humidity": 8,
+      "precipitationProbability": 0,
+      "pressureSurfaceLevel": 794.81,
+      "rainIntensity": 0,
+      "sleetIntensity": 0,
+      "snowIntensity": 0,
+      "temperature": 26.5,
+      "temperatureApparent": 26.5,
+      "uvHealthConcern": 0,
+      "uvIndex": 0,
+      "visibility": 16,
+      "weatherCode": 1000,
+      "windDirection": 309.19,
+      "windGust": 8.88,
+      "windSpeed": 6.38
+    }
+  },
+  "location": {
+    "lat": 23.658512115478516,
+    "lon": -102.0077133178711,
+    "name": "México",
+    "type": "administrative"
+  }
+}

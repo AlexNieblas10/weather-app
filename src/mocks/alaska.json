@@ -1,0 +1,33 @@
+{
+  "data": {
+    "time": "2023-04-18T23:55:00Z",
+    "values": {
+      "cloudBase": 0.82,
+      "cloudCeiling": 0.82,
+      "cloudCover": 100,
+      "dewPoint": -10.81,
+      "freezingRainIntensity": 0,
+      "humidity": 60,
+      "precipitationProbability": 5,
+      "pressureSurfaceLevel": 997.12,
+      "rainIntensity": 0,
+      "sleetIntensity": 0,
+      "snowIntensity": 0.07,
+      "temperature": -4.13,
+      "temperatureApparent": -9.66,
+      "uvHealthConcern": 0,
+      "uvIndex": 1,
+      "visibility": 10.58,
+      "weatherCode": 5001,
+      "windDirection": 29.81,
+      "windGust": 9.81,
+      "windSpeed": 4.38
+    }
+  },
+  "location": {
+    "lat": 64.44596099853516,
+    "lon": -149.680908203125,
+    "name": "Alaska, United States",
+    "type": "administrative"
+  }
+}
