@@ -28,7 +28,7 @@ export const Data = () => {
 
   return (
     <section className="full_container">
-      <Link to="/forecast" className="linkPage">
+      <Link to="./forecast" className="linkPage">
         Go to Forecast
       </Link>
 

@@ -22,7 +22,7 @@ export const Forecast = () => {
           .then((info) => setInfoApiForecast(info))
           .then(() => setLoader(false));
       } catch {
-        console.error("Error");
+        console.error("ha habido un Error");
       }
     }
   }, [location]);
@@ -67,7 +67,7 @@ export const Forecast = () => {
         </article>
       )}
 
-      {infoApiForecast.message && <h2 className="messageError">{infoApiForecast.message}</h2>}
+      {infoApiForecast.message && <h2 className="messageError">{`error: ${infoApiForecast.message}`}</h2>}
     </section>
   );
 };
